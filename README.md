@@ -60,8 +60,10 @@ Distributed under Apache License 2.0. See `LICENSE` for more information.
 
 ## Contact
 
-Nisar Ahmed  
-Linkedin: www.linkedin.com/in/nisar-ahmed-24303670qwea  
-email: nisarahmed7706@gmail.com
+[![Twitter Follow](https://img.shields.io/twitter/follow/Nisar_243?&style=social)](https://twitter.com/intent/user?screen_name=Nisar_243 "Twitter")
+[![GitHub Followers](https://img.shields.io/github/followers/nisarahmed230?label=Follow%20Me%21&style=social&link=https://github.com/nisarahmed230 "Go to GitHub")](https://github.com/nisarahmed230)
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nisar-ahmed-24303670qwea)](https://www.linkedin.com/in/nisar-ahmed-24303670qwea "Let's get into LinkedIn")
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:nisarahmed3024@gmail.com)](mailto:nisarahmed3024@gmail.com "Contact Me")
 
 Project Link: https://github.com/nisarahmed230/Cards-Personal-digital-assistants
